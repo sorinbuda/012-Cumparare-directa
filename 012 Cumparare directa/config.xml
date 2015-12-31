@@ -1,8 +1,8 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	id        = "com.birouldeachizitii.s"
-	versionCode="201512262325"
-	version   = "2015.02.25">
+	versionCode="201512312255"
+	version   = "2015.12.31">
 	<name>012 Cumparare directa</name>
 	<description>www.Biroul-de-Achizitii.Ro</description>
 	<author href="www.Biroul-de-Achizitii.Ro" email="contact@birouldeachizitii.ro">Biroul de Achizitii .Ro</author>

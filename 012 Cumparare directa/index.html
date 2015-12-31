@@ -11,6 +11,7 @@
 
 var deviceReady = false;
 var initCalled = false ;
+var initialized = false;
 
 function onBodyLoad()
 {
@@ -33,6 +34,8 @@ function onDeviceReady()
 
 function initializeCP()
 {
+	if(initialized)
+		return;
 	initCalled = true ;
 	if(cp.pg && deviceReady === false)
 		return;
@@ -51,6 +54,7 @@ function initializeCP()
 	}
 	
 	cpInit();
+	initialized = true;
 }
 
 </script>
