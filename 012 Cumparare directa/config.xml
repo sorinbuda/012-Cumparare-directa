@@ -2,11 +2,11 @@
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	id        = "com.birouldeachizitii.s"
 	versionCode="201512312255"
-	version   = "2015.12.31">
+	version   = "2015">
 	<name>012 Cumparare directa</name>
 	<description>www.Biroul-de-Achizitii.Ro</description>
 	<author href="www.Biroul-de-Achizitii.Ro" email="contact@birouldeachizitii.ro">Biroul de Achizitii .Ro</author>
 <preference name="permissions" value="none"/>
-<preference name="phonegap-version" value="cli-5.2.0" />
+
 
 </widget>
