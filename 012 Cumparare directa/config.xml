@@ -8,4 +8,5 @@
 		<description>www.Biroul-de-Achizitii.Ro</description>
 		<author href="www.Biroul-de-Achizitii.Ro" email="contact@birouldeachizitii.ro">Biroul de Achizitii .Ro</author>
 		<preference name="permissions" value="none"/>
+		<gap:plugin name="org.apache.cordova.media" />
 	</widget>
